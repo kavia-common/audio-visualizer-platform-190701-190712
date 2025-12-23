@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/audio-visualizer-platform-190701-190712/audio_visualizer_frontend"
+}
